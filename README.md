@@ -1,4 +1,4 @@
-# Simulated-Annaling-for-platooning-problem
+# optimization fuel-consuming in platooning of vehicles by using sophisticated meta-heuristics
 
 Platooning of vehicles is a novel approach to reduce fuel consumption in long-distance transportation services by establishing a string of vehicles driving on the road close behind each other to reduce the aerodynamic drag. The motivation relies on the fact that the fuel costs are held accountable for the third of the total operational costs of those services, besides being the Heavy-duty vehicles one of the carbon emissions sources. 
 
