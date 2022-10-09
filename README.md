@@ -1,1 +1,2 @@
-# Simulated-Annaling-for-platooning-problem
+# optimization fuel-consuming in platooning of vehicles by using sophisticated meta-heuristics
+
